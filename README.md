@@ -16,7 +16,7 @@ cd [repository directory]
 이 `README.md` 파일의 아래 블럭 부분에 텍스트를 추가해 보세요:
 ```
 아래 부분에 마음껏 글을 적어 보세요
-
+I love her
 
 
 위 부분에 마음껏 글을 적어 보세요
